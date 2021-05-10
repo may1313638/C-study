@@ -7,6 +7,6 @@ int main()
 	int* ptr;
 	ptr = &k;
 
-	cout << "ë³€ìˆ˜ kì˜ ì£¼ì†ŒëŠ”: " << ptr << endl;
-	cout << "kì˜ ê°’ì€: " << *ptr;
+	cout << "º¯¼ö kÀÇ ÁÖ¼Ò´Â: " << ptr << endl;
+	cout << "kÀÇ °ªÀº: " << *ptr;
 }
